@@ -1,0 +1,31 @@
+.addblog{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    
+  border: 1px solid black;
+  border-radius: 10px;
+height: 450px;
+width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+   
+    color:black;
+    background-color: white;
+}
+.blogbackgroundimage{
+
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size:cover;
+height:600px;
+
+width: 100vw;
+
+
+
+
+
+
+}
